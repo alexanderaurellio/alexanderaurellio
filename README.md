@@ -1,5 +1,4 @@
-- software development and machine learning
-- looking to collaborate on creating a project
+- currently learning on data science and machine learning
 - how to reach me: ig @alexanderau_
 
 <!---
